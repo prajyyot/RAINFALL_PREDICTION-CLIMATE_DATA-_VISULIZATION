@@ -35,7 +35,7 @@ df.columns
 
 df.isnull().sum()
 
-#null values
+#null_values
 df.isnull().sum()*100/len(df)
 
 numerical_feature
